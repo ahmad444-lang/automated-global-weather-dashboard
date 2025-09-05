@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Automated Weather Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { 
+      background:#f9f9f9; 
+      color:#222; 
+      font-family:Arial, sans-serif; 
+      text-align:center; 
+      margin:0; 
+      padding:0;
+    }
+
+    h1 { 
+      margin:20px; 
+      font-size:3em; 
+      color: grey;       
+      text-shadow: 2px 2px 5px #aaa;
+    }
+
+    #cards {
+      display:grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap:20px;
+      padding:20px;
+      max-width:1200px;
+      margin:0 auto;
+    }
+
+    .card {
+      background:#fff;
+      padding:20px;
+      border-radius:12px;
+      box-shadow:0 4px 12px rgba(0,0,0,0.1);
+      transition:transform 0.2s;
+      position: relative;
+    }
+
+    .card:hover { transform:translateY(-5px); }
+
+    .city-name {
+      display:inline-block;
+      padding:5px 10px;
+      border:2px solid grey;    
+      border-radius:8px;
+      background:#f0f0f0;       
+      margin-bottom:10px;
+      font-weight:bold;
+      font-size:1.3em;
+    }
+
+    canvas { 
+      margin-top:15px; 
+      background:#fafafa; 
+      border-radius:8px; 
+    }
+  </style>
+</head>
+<body>
+  <h1>Automated Weather Dashboard</h1>
+  <!-- 👇 Last Updated line hata di -->
+  <div id="cards"></div>
+
+  <script>
+    function formatTime(unix, type) {
+      if(unix === 0) return "N/A";
+      let d = new Date(unix * 1000);
+      let h = d.getHours(), m = d.getMinutes().toString().padStart(2,"0");
+      
+      // Sunrise ko hamesha AM aur Sunset ko hamesha PM bana diya
+      let ampm = (type === "sunrise") ? "AM" : "PM";
+      h = h % 12 || 12;
+      return `${h}:${m} ${ampm}`;
+    }
+
+    async function updateWeather() {
+      const res = await fetch("weather.json?" + new Date().getTime());
+      const data = await res.json();
+
+      const cities = data.cities;
+      let cardsDiv = document.getElementById("cards");
+      cardsDiv.innerHTML = "";
+
+      cities.forEach((c, i) => {
+        let div = document.createElement("div");
+        div.className="card";
+        div.innerHTML = `
+          <div class="city-name">${c.city}</div>
+          <p>🌡 Temp: ${c.temperature}°C</p>
+          <p>💧 Humidity: ${c.humidity}%</p>
+          <p>🌅 Sunrise: ${formatTime(c.sunrise,"sunrise")}</p>
+          <p>🌇 Sunset: ${formatTime(c.sunset,"sunset")}</p>
+          <canvas id="chart${i}" width="300" height="150"></canvas>
+        `;
+        cardsDiv.appendChild(div);
+
+        new Chart(document.getElementById(`chart${i}`), {
+          type:"bar",
+          data:{
+            labels:["Temperature","Humidity"],
+            datasets:[{
+              label:c.city,
+              data:[c.temperature, c.humidity],
+              backgroundColor:[
+                c.temperature < 25 ? "green" : "red",
+                "skyblue"
+              ]
+            }]
+          },
+          options:{
+            plugins:{ legend:{display:false}, tooltip:{enabled:true} },
+            scales:{ y:{ beginAtZero:true } }
+          }
+        });
+      });
+    }
+
+    // First run
+    updateWeather();
+
+    // Auto-refresh every 30 minutes
+    setInterval(updateWeather, 30 * 60 * 1000);
+  </script>
+</body>
+</html>
