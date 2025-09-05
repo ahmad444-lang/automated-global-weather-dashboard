@@ -2,8 +2,8 @@ name: Weather Auto Update
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # har 30 min baad chalega
-  workflow_dispatch:        # manually run karne ka option bhi hoga
+    - cron: "*/30 * * * *"   # har 30 min chalega
+  workflow_dispatch:          # manually run ka option bhi hoga
 
 jobs:
   update-weather:
@@ -22,6 +22,8 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Run weather script
+      env:
+        OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}   # apni key secrets me save karo
       run: python weathers.py
 
     - name: Commit and push changes
@@ -29,5 +31,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add weather.json
-        git commit -m "🔄 Auto update weather data"
-        git push
+        git diff --cached --quiet || git commit -m "🔄 Auto update weather data"
+        git push || true
