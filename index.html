@@ -61,7 +61,6 @@
 </head>
 <body>
   <h1>Automated Weather Dashboard</h1>
-  <!-- 👇 Last Updated line hata di -->
   <div id="cards"></div>
 
   <script>
@@ -69,8 +68,6 @@
       if(unix === 0) return "N/A";
       let d = new Date(unix * 1000);
       let h = d.getHours(), m = d.getMinutes().toString().padStart(2,"0");
-      
-      // Sunrise ko hamesha AM aur Sunset ko hamesha PM bana diya
       let ampm = (type === "sunrise") ? "AM" : "PM";
       h = h % 12 || 12;
       return `${h}:${m} ${ampm}`;
