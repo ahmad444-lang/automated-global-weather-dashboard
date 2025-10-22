@@ -1,18 +1,18 @@
 {
-  "last_update": "2025-10-22 16:49:32 UTC",
+  "last_update": "2025-10-22 17:16:51 UTC",
   "cities": [
     {
       "city": "Lahore",
       "temperature": 25.99,
-      "humidity": 47,
-      "description": "haze",
+      "humidity": 50,
+      "description": "smoke",
       "sunrise": 1761095429,
       "sunset": 1761135806
     },
     {
       "city": "Islamabad",
-      "temperature": 21.58,
-      "humidity": 62,
+      "temperature": 21.02,
+      "humidity": 63,
       "description": "clear sky",
       "sunrise": 1761095857,
       "sunset": 1761135959
