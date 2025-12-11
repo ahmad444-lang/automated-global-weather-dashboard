@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-11 09:24:52 UTC",
+  "last_update": "2025-12-11 09:46:32 UTC",
   "cities": [
     {
       "city": "Lahore",
@@ -12,22 +12,22 @@
     {
       "city": "Islamabad",
       "temperature": 22.13,
-      "humidity": 38,
-      "description": "clear sky",
+      "humidity": 37,
+      "description": "few clouds",
       "sunrise": 1765418523,
       "sunset": 1765454370
     },
     {
       "city": "Multan",
       "temperature": 22.94,
-      "humidity": 46,
+      "humidity": 49,
       "description": "haze",
       "sunrise": 1765418418,
       "sunset": 1765455271
     },
     {
       "city": "Depalpur",
-      "temperature": 27.22,
+      "temperature": 26.22,
       "humidity": 15,
       "description": "clear sky",
       "sunrise": 1765416500,
@@ -35,7 +35,7 @@
     },
     {
       "city": "Okara",
-      "temperature": 26.81,
+      "temperature": 26.9,
       "humidity": 10,
       "description": "clear sky",
       "sunrise": 1765418030,
@@ -43,7 +43,7 @@
     },
     {
       "city": "Basirpur",
-      "temperature": 26.73,
+      "temperature": 26.83,
       "humidity": 10,
       "description": "clear sky",
       "sunrise": 1765417907,
