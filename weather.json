@@ -1,33 +1,33 @@
 {
-  "last_update": "2026-03-04 18:49:41 UTC",
+  "last_update": "2026-03-04 19:36:54 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 23.28,
-      "humidity": 19,
-      "description": "few clouds",
-      "sunrise": 1772587609,
-      "sunset": 1772629342
+      "temperature": 21.99,
+      "humidity": 60,
+      "description": "smoke",
+      "sunrise": 1772673939,
+      "sunset": 1772715786
     },
     {
       "city": "Islamabad",
-      "temperature": 21.8,
-      "humidity": 30,
+      "temperature": 20.47,
+      "humidity": 55,
       "description": "clear sky",
-      "sunrise": 1772587978,
-      "sunset": 1772629554
+      "sunrise": 1772674302,
+      "sunset": 1772716003
     },
     {
       "city": "Multan",
-      "temperature": 25.51,
-      "humidity": 20,
-      "description": "clear sky",
-      "sunrise": 1772588250,
-      "sunset": 1772630078
+      "temperature": 25.94,
+      "humidity": 65,
+      "description": "smoke",
+      "sunrise": 1772674582,
+      "sunset": 1772716519
     },
     {
       "city": "Depalpur",
-      "temperature": 23.63,
+      "temperature": 19.22,
       "humidity": 21,
       "description": "clear sky",
       "sunrise": 1772673381,
@@ -35,19 +35,19 @@
     },
     {
       "city": "Okara",
-      "temperature": 22.2,
-      "humidity": 26,
+      "temperature": 21.85,
+      "humidity": 25,
       "description": "clear sky",
-      "sunrise": 1772587799,
-      "sunset": 1772629583
+      "sunrise": 1772674129,
+      "sunset": 1772716026
     },
     {
       "city": "Basirpur",
-      "temperature": 22.29,
-      "humidity": 29,
+      "temperature": 21.75,
+      "humidity": 30,
       "description": "clear sky",
-      "sunrise": 1772587699,
-      "sunset": 1772629499
+      "sunrise": 1772674030,
+      "sunset": 1772715941
     }
   ]
 }
