@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-05-03 18:09:30 UTC",
+  "last_update": "2026-05-03 19:32:35 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 27.99,
-      "humidity": 51,
-      "description": "smoke",
-      "sunrise": 1777767354,
-      "sunset": 1777815783
+      "temperature": 26.99,
+      "humidity": 57,
+      "description": "broken clouds",
+      "sunrise": 1777853701,
+      "sunset": 1777902225
     },
     {
       "city": "Islamabad",
-      "temperature": 24.91,
-      "humidity": 63,
-      "description": "scattered clouds",
-      "sunrise": 1777767430,
-      "sunset": 1777816287
+      "temperature": 24.35,
+      "humidity": 65,
+      "description": "overcast clouds",
+      "sunrise": 1777853772,
+      "sunset": 1777902734
     },
     {
       "city": "Multan",
-      "temperature": 28.94,
-      "humidity": 54,
+      "temperature": 27.94,
+      "humidity": 57,
       "description": "smoke",
-      "sunrise": 1777768170,
-      "sunset": 1777816343
+      "sunrise": 1777854520,
+      "sunset": 1777902783
     },
     {
       "city": "Depalpur",
-      "temperature": 28.22,
-      "humidity": 34,
+      "temperature": 27.22,
+      "humidity": 44,
       "description": "clear sky",
-      "sunrise": 1777767832,
-      "sunset": 1777814725
+      "sunrise": 1777854194,
+      "sunset": 1777901153
     },
     {
       "city": "Okara",
-      "temperature": 26.15,
-      "humidity": 48,
-      "description": "broken clouds",
-      "sunrise": 1777767640,
-      "sunset": 1777815927
+      "temperature": 26.4,
+      "humidity": 49,
+      "description": "clear sky",
+      "sunrise": 1777853989,
+      "sunset": 1777902368
     },
     {
       "city": "Basirpur",
-      "temperature": 27.24,
-      "humidity": 42,
-      "description": "scattered clouds",
-      "sunrise": 1777767569,
-      "sunset": 1777815814
+      "temperature": 27.56,
+      "humidity": 44,
+      "description": "clear sky",
+      "sunrise": 1777853918,
+      "sunset": 1777902255
     }
   ]
 }
