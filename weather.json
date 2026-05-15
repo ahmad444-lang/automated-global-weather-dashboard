@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-05-15 18:03:04 UTC",
+  "last_update": "2026-05-15 19:58:47 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 29.99,
-      "humidity": 45,
+      "temperature": 28.99,
+      "humidity": 48,
       "description": "haze",
-      "sunrise": 1778803595,
-      "sunset": 1778853092
+      "sunrise": 1778889956,
+      "sunset": 1778939534
     },
     {
       "city": "Islamabad",
-      "temperature": 28.24,
-      "humidity": 50,
-      "description": "broken clouds",
-      "sunrise": 1778803622,
-      "sunset": 1778853645
+      "temperature": 27.13,
+      "humidity": 54,
+      "description": "overcast clouds",
+      "sunrise": 1778889980,
+      "sunset": 1778940090
     },
     {
       "city": "Multan",
-      "temperature": 26.94,
-      "humidity": 54,
+      "temperature": 25.94,
+      "humidity": 57,
       "description": "smoke",
-      "sunrise": 1778804440,
-      "sunset": 1778853623
+      "sunrise": 1778890804,
+      "sunset": 1778940063
     },
     {
       "city": "Depalpur",
-      "temperature": 31.22,
-      "humidity": 17,
-      "description": "few clouds",
-      "sunrise": 1778804243,
-      "sunset": 1778851864
+      "temperature": 28.22,
+      "humidity": 22,
+      "description": "clear sky",
+      "sunrise": 1778890618,
+      "sunset": 1778938293
     },
     {
       "city": "Okara",
-      "temperature": 33.68,
-      "humidity": 22,
-      "description": "scattered clouds",
-      "sunrise": 1778803897,
-      "sunset": 1778853221
+      "temperature": 31.78,
+      "humidity": 25,
+      "description": "overcast clouds",
+      "sunrise": 1778890260,
+      "sunset": 1778939661
     },
     {
       "city": "Basirpur",
-      "temperature": 33.88,
-      "humidity": 20,
-      "description": "few clouds",
-      "sunrise": 1778803831,
-      "sunset": 1778853103
+      "temperature": 32.16,
+      "humidity": 24,
+      "description": "broken clouds",
+      "sunrise": 1778890194,
+      "sunset": 1778939543
     }
   ]
 }
