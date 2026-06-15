@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-06-15 18:23:24 UTC",
+  "last_update": "2026-06-15 21:30:37 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 33.51,
-      "humidity": 30,
+      "temperature": 31.78,
+      "humidity": 39,
       "description": "clear sky",
-      "sunrise": 1781481441,
-      "sunset": 1781532529
+      "sunrise": 1781567846,
+      "sunset": 1781618949
     },
     {
       "city": "Islamabad",
-      "temperature": 29.91,
-      "humidity": 58,
-      "description": "clear sky",
-      "sunrise": 1781481395,
-      "sunset": 1781533156
+      "temperature": 27.69,
+      "humidity": 61,
+      "description": "scattered clouds",
+      "sunrise": 1781567799,
+      "sunset": 1781619576
     },
     {
       "city": "Multan",
-      "temperature": 37.59,
-      "humidity": 20,
+      "temperature": 33.72,
+      "humidity": 40,
       "description": "clear sky",
-      "sunrise": 1781482331,
-      "sunset": 1781533016
+      "sunrise": 1781568736,
+      "sunset": 1781619435
     },
     {
       "city": "Depalpur",
-      "temperature": 32.04,
-      "humidity": 39,
-      "description": "scattered clouds",
-      "sunrise": 1781482347,
-      "sunset": 1781531044
+      "temperature": 27.41,
+      "humidity": 65,
+      "description": "clear sky",
+      "sunrise": 1781568754,
+      "sunset": 1781617461
     },
     {
       "city": "Okara",
-      "temperature": 32.68,
-      "humidity": 37,
-      "description": "few clouds",
-      "sunrise": 1781481768,
-      "sunset": 1781532634
+      "temperature": 30.79,
+      "humidity": 44,
+      "description": "clear sky",
+      "sunrise": 1781568172,
+      "sunset": 1781619053
     },
     {
       "city": "Basirpur",
-      "temperature": 31.65,
-      "humidity": 43,
-      "description": "scattered clouds",
-      "sunrise": 1781481709,
-      "sunset": 1781532508
+      "temperature": 30.83,
+      "humidity": 45,
+      "description": "clear sky",
+      "sunrise": 1781568114,
+      "sunset": 1781618928
     }
   ]
 }
