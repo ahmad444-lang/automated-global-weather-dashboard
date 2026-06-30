@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-06-30 18:18:24 UTC",
+  "last_update": "2026-06-30 20:28:37 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 40.38,
-      "humidity": 22,
-      "description": "scattered clouds",
-      "sunrise": 1782777640,
-      "sunset": 1782828689
+      "temperature": 38.19,
+      "humidity": 27,
+      "description": "clear sky",
+      "sunrise": 1782864063,
+      "sunset": 1782915088
     },
     {
       "city": "Islamabad",
-      "temperature": 36.01,
-      "humidity": 24,
+      "temperature": 32.69,
+      "humidity": 73,
       "description": "clear sky",
-      "sunrise": 1782777597,
-      "sunset": 1782829313
+      "sunrise": 1782864020,
+      "sunset": 1782915712
     },
     {
       "city": "Multan",
-      "temperature": 40.92,
-      "humidity": 21,
+      "temperature": 39.84,
+      "humidity": 22,
       "description": "clear sky",
-      "sunrise": 1782778529,
-      "sunset": 1782829177
+      "sunrise": 1782864951,
+      "sunset": 1782915577
     },
     {
       "city": "Depalpur",
-      "temperature": 25.44,
-      "humidity": 83,
-      "description": "broken clouds",
-      "sunrise": 1782778540,
-      "sunset": 1782827210
+      "temperature": 24.61,
+      "humidity": 85,
+      "description": "overcast clouds",
+      "sunrise": 1782864958,
+      "sunset": 1782913614
     },
     {
       "city": "Okara",
-      "temperature": 39.16,
-      "humidity": 25,
-      "description": "clear sky",
-      "sunrise": 1782777966,
-      "sunset": 1782828794
+      "temperature": 38.14,
+      "humidity": 26,
+      "description": "few clouds",
+      "sunrise": 1782864389,
+      "sunset": 1782915194
     },
     {
       "city": "Basirpur",
-      "temperature": 39.15,
-      "humidity": 25,
-      "description": "scattered clouds",
-      "sunrise": 1782777908,
-      "sunset": 1782828669
+      "temperature": 38.37,
+      "humidity": 26,
+      "description": "clear sky",
+      "sunrise": 1782864330,
+      "sunset": 1782915069
     }
   ]
 }
