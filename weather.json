@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-07-06 17:19:31 UTC",
+  "last_update": "2026-07-06 19:14:34 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 36.9,
-      "humidity": 38,
-      "description": "scattered clouds",
-      "sunrise": 1783296190,
-      "sunset": 1783347065
+      "temperature": 33.81,
+      "humidity": 51,
+      "description": "clear sky",
+      "sunrise": 1783382618,
+      "sunset": 1783433456
     },
     {
       "city": "Islamabad",
-      "temperature": 35.54,
-      "humidity": 48,
-      "description": "clear sky",
-      "sunrise": 1783296154,
-      "sunset": 1783347682
+      "temperature": 32.11,
+      "humidity": 53,
+      "description": "overcast clouds",
+      "sunrise": 1783382584,
+      "sunset": 1783434071
     },
     {
       "city": "Multan",
-      "temperature": 42.12,
-      "humidity": 21,
+      "temperature": 40.17,
+      "humidity": 25,
       "description": "clear sky",
-      "sunrise": 1783297074,
-      "sunset": 1783347558
+      "sunrise": 1783383501,
+      "sunset": 1783433950
     },
     {
       "city": "Depalpur",
-      "temperature": 27.21,
-      "humidity": 81,
-      "description": "overcast clouds",
-      "sunrise": 1783297061,
-      "sunset": 1783345615
+      "temperature": 25.38,
+      "humidity": 89,
+      "description": "light rain",
+      "sunrise": 1783383483,
+      "sunset": 1783432012
     },
     {
       "city": "Okara",
-      "temperature": 38.22,
-      "humidity": 34,
+      "temperature": 35.15,
+      "humidity": 47,
       "description": "broken clouds",
-      "sunrise": 1783296513,
-      "sunset": 1783347173
+      "sunrise": 1783382941,
+      "sunset": 1783433565
     },
     {
       "city": "Basirpur",
-      "temperature": 38.26,
-      "humidity": 35,
-      "description": "scattered clouds",
-      "sunrise": 1783296453,
-      "sunset": 1783347049
+      "temperature": 35.38,
+      "humidity": 46,
+      "description": "few clouds",
+      "sunrise": 1783382881,
+      "sunset": 1783433440
     }
   ]
 }
