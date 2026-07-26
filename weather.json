@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-07-26 18:03:16 UTC",
+  "last_update": "2026-07-26 19:42:58 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 32.84,
-      "humidity": 55,
-      "description": "scattered clouds",
-      "sunrise": 1785024872,
-      "sunset": 1785074608
+      "temperature": 32.16,
+      "humidity": 58,
+      "description": "few clouds",
+      "sunrise": 1785111311,
+      "sunset": 1785160971
     },
     {
       "city": "Islamabad",
-      "temperature": 28.66,
-      "humidity": 62,
-      "description": "scattered clouds",
-      "sunrise": 1785024889,
-      "sunset": 1785075172
+      "temperature": 27.69,
+      "humidity": 83,
+      "description": "clear sky",
+      "sunrise": 1785111331,
+      "sunset": 1785161531
     },
     {
       "city": "Multan",
-      "temperature": 35.04,
-      "humidity": 46,
-      "description": "broken clouds",
-      "sunrise": 1785025725,
-      "sunset": 1785075132
+      "temperature": 34.04,
+      "humidity": 49,
+      "description": "clear sky",
+      "sunrise": 1785112161,
+      "sunset": 1785161497
     },
     {
       "city": "Depalpur",
-      "temperature": 24.81,
-      "humidity": 87,
-      "description": "few clouds",
-      "sunrise": 1785025559,
-      "sunset": 1785073342
+      "temperature": 24.28,
+      "humidity": 88,
+      "description": "scattered clouds",
+      "sunrise": 1785111985,
+      "sunset": 1785159717
     },
     {
       "city": "Okara",
-      "temperature": 33.71,
-      "humidity": 52,
+      "temperature": 33.35,
+      "humidity": 53,
       "description": "overcast clouds",
-      "sunrise": 1785025178,
-      "sunset": 1785074733
+      "sunrise": 1785111616,
+      "sunset": 1785161097
     },
     {
       "city": "Basirpur",
-      "temperature": 34.03,
-      "humidity": 52,
+      "temperature": 33.49,
+      "humidity": 53,
       "description": "overcast clouds",
-      "sunrise": 1785025113,
-      "sunset": 1785074614
+      "sunrise": 1785111550,
+      "sunset": 1785160978
     }
   ]
 }
