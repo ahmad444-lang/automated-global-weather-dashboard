@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-07-29 18:04:58 UTC",
+  "last_update": "2026-07-29 19:51:29 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 34.13,
-      "humidity": 50,
-      "description": "broken clouds",
-      "sunrise": 1785284188,
-      "sunset": 1785333691
+      "temperature": 32.89,
+      "humidity": 54,
+      "description": "few clouds",
+      "sunrise": 1785370628,
+      "sunset": 1785420050
     },
     {
       "city": "Islamabad",
-      "temperature": 30.39,
-      "humidity": 60,
-      "description": "clear sky",
-      "sunrise": 1785284216,
-      "sunset": 1785334244
+      "temperature": 28.24,
+      "humidity": 86,
+      "description": "light rain",
+      "sunrise": 1785370659,
+      "sunset": 1785420599
     },
     {
       "city": "Multan",
-      "temperature": 39.75,
-      "humidity": 30,
-      "description": "scattered clouds",
-      "sunrise": 1785285035,
-      "sunset": 1785334222
+      "temperature": 38.25,
+      "humidity": 34,
+      "description": "clear sky",
+      "sunrise": 1785371472,
+      "sunset": 1785420582
     },
     {
       "city": "Depalpur",
-      "temperature": 24.69,
-      "humidity": 90,
-      "description": "overcast clouds",
-      "sunrise": 1785284838,
-      "sunset": 1785332463
+      "temperature": 24.08,
+      "humidity": 91,
+      "description": "light rain",
+      "sunrise": 1785371264,
+      "sunset": 1785418834
     },
     {
       "city": "Okara",
-      "temperature": 36.45,
-      "humidity": 40,
-      "description": "few clouds",
-      "sunrise": 1785284491,
-      "sunset": 1785333820
+      "temperature": 34.2,
+      "humidity": 50,
+      "description": "clear sky",
+      "sunrise": 1785370929,
+      "sunset": 1785420179
     },
     {
       "city": "Basirpur",
-      "temperature": 35.23,
-      "humidity": 45,
-      "description": "scattered clouds",
-      "sunrise": 1785284425,
-      "sunset": 1785333702
+      "temperature": 32.99,
+      "humidity": 53,
+      "description": "light rain",
+      "sunrise": 1785370863,
+      "sunset": 1785420062
     }
   ]
 }
