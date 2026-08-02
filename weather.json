@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-08-02 18:28:46 UTC",
+  "last_update": "2026-08-02 19:44:36 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 33.58,
-      "humidity": 53,
+      "temperature": 33.48,
+      "humidity": 52,
       "description": "overcast clouds",
-      "sunrise": 1785629946,
-      "sunset": 1785679117
+      "sunrise": 1785716385,
+      "sunset": 1785765470
     },
     {
       "city": "Islamabad",
       "temperature": 29.91,
-      "humidity": 79,
-      "description": "overcast clouds",
-      "sunrise": 1785629989,
-      "sunset": 1785679655
+      "humidity": 81,
+      "description": "light rain",
+      "sunrise": 1785716432,
+      "sunset": 1785766004
     },
     {
       "city": "Multan",
-      "temperature": 36.44,
-      "humidity": 42,
-      "description": "scattered clouds",
-      "sunrise": 1785630783,
-      "sunset": 1785679656
+      "temperature": 35.68,
+      "humidity": 43,
+      "description": "broken clouds",
+      "sunrise": 1785717221,
+      "sunset": 1785766012
     },
     {
       "city": "Depalpur",
-      "temperature": 23.76,
-      "humidity": 92,
-      "description": "scattered clouds",
-      "sunrise": 1785630542,
-      "sunset": 1785677942
+      "temperature": 23.43,
+      "humidity": 94,
+      "description": "broken clouds",
+      "sunrise": 1785716968,
+      "sunset": 1785764309
     },
     {
       "city": "Okara",
-      "temperature": 33.1,
-      "humidity": 55,
+      "temperature": 33.98,
+      "humidity": 50,
       "description": "overcast clouds",
-      "sunrise": 1785630243,
-      "sunset": 1785679250
+      "sunrise": 1785716682,
+      "sunset": 1785765605
     },
     {
       "city": "Basirpur",
-      "temperature": 34.01,
-      "humidity": 52,
-      "description": "overcast clouds",
-      "sunrise": 1785630176,
-      "sunset": 1785679134
+      "temperature": 34.11,
+      "humidity": 50,
+      "description": "broken clouds",
+      "sunrise": 1785716614,
+      "sunset": 1785765489
     }
   ]
 }
