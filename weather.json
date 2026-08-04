@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-08-04 18:10:27 UTC",
+  "last_update": "2026-08-04 20:08:08 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 33.79,
-      "humidity": 52,
-      "description": "scattered clouds",
-      "sunrise": 1785802825,
-      "sunset": 1785851822
+      "temperature": 32.72,
+      "humidity": 56,
+      "description": "broken clouds",
+      "sunrise": 1785889265,
+      "sunset": 1785938173
     },
     {
       "city": "Islamabad",
-      "temperature": 29.91,
-      "humidity": 82,
-      "description": "scattered clouds",
-      "sunrise": 1785802876,
-      "sunset": 1785852352
+      "temperature": 29.35,
+      "humidity": 83,
+      "description": "light rain",
+      "sunrise": 1785889320,
+      "sunset": 1785938699
     },
     {
       "city": "Multan",
-      "temperature": 36.32,
-      "humidity": 41,
-      "description": "few clouds",
-      "sunrise": 1785803658,
-      "sunset": 1785852366
+      "temperature": 34.62,
+      "humidity": 46,
+      "description": "light rain",
+      "sunrise": 1785890095,
+      "sunset": 1785938719
     },
     {
       "city": "Depalpur",
-      "temperature": 24.3,
-      "humidity": 85,
+      "temperature": 23.85,
+      "humidity": 89,
       "description": "overcast clouds",
-      "sunrise": 1785803394,
-      "sunset": 1785850675
+      "sunrise": 1785889819,
+      "sunset": 1785937040
     },
     {
       "city": "Okara",
-      "temperature": 35.02,
-      "humidity": 46,
-      "description": "scattered clouds",
-      "sunrise": 1785803120,
-      "sunset": 1785851958
+      "temperature": 33.67,
+      "humidity": 49,
+      "description": "clear sky",
+      "sunrise": 1785889558,
+      "sunset": 1785938310
     },
     {
       "city": "Basirpur",
-      "temperature": 35.03,
-      "humidity": 45,
-      "description": "scattered clouds",
-      "sunrise": 1785803052,
-      "sunset": 1785851842
+      "temperature": 33.8,
+      "humidity": 47,
+      "description": "broken clouds",
+      "sunrise": 1785889490,
+      "sunset": 1785938195
     }
   ]
 }
