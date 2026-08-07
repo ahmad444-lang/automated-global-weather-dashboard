@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-08-06 14:03:05 UTC",
+  "last_update": "2026-08-07 00:22:56 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 30.2,
-      "humidity": 72,
-      "description": "light rain",
-      "sunrise": 1785975704,
-      "sunset": 1786024523
+      "temperature": 26.51,
+      "humidity": 83,
+      "description": "broken clouds",
+      "sunrise": 1786062144,
+      "sunset": 1786110871
     },
     {
       "city": "Islamabad",
-      "temperature": 31.02,
-      "humidity": 71,
-      "description": "overcast clouds",
-      "sunrise": 1785975763,
-      "sunset": 1786025044
+      "temperature": 25.53,
+      "humidity": 79,
+      "description": "light rain",
+      "sunrise": 1786062207,
+      "sunset": 1786111389
     },
     {
       "city": "Multan",
-      "temperature": 40.25,
-      "humidity": 26,
-      "description": "broken clouds",
-      "sunrise": 1785976532,
-      "sunset": 1786025071
+      "temperature": 32.99,
+      "humidity": 46,
+      "description": "light rain",
+      "sunrise": 1786062969,
+      "sunset": 1786111422
     },
     {
       "city": "Depalpur",
-      "temperature": 25.14,
-      "humidity": 84,
-      "description": "light rain",
-      "sunrise": 1785976244,
-      "sunset": 1786023404
+      "temperature": 23.65,
+      "humidity": 90,
+      "description": "overcast clouds",
+      "sunrise": 1786062669,
+      "sunset": 1786109767
     },
     {
       "city": "Okara",
-      "temperature": 32.45,
-      "humidity": 54,
-      "description": "light rain",
-      "sunrise": 1785975997,
-      "sunset": 1786024661
+      "temperature": 28.87,
+      "humidity": 76,
+      "description": "overcast clouds",
+      "sunrise": 1786062435,
+      "sunset": 1786111011
     },
     {
       "city": "Basirpur",
-      "temperature": 31.88,
-      "humidity": 61,
-      "description": "light rain",
-      "sunrise": 1785975928,
-      "sunset": 1786024546
+      "temperature": 28.79,
+      "humidity": 77,
+      "description": "overcast clouds",
+      "sunrise": 1786062366,
+      "sunset": 1786110896
     }
   ]
 }
