@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-10-13 16:46:05 UTC",
+  "last_update": "2026-10-13 21:42:43 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 25.99,
-      "humidity": 65,
-      "description": "clear sky",
-      "sunrise": 1791853428,
-      "sunset": 1791894827
+      "temperature": 24.99,
+      "humidity": 73,
+      "description": "broken clouds",
+      "sunrise": 1791939870,
+      "sunset": 1791981157
     },
     {
       "city": "Islamabad",
-      "temperature": 20.47,
-      "humidity": 76,
+      "temperature": 18.24,
+      "humidity": 87,
       "description": "few clouds",
-      "sunrise": 1791853812,
-      "sunset": 1791895024
+      "sunrise": 1791940258,
+      "sunset": 1791981349
     },
     {
       "city": "Multan",
-      "temperature": 28.94,
-      "humidity": 58,
-      "description": "clear sky",
-      "sunrise": 1791854061,
-      "sunset": 1791895571
+      "temperature": 26.94,
+      "humidity": 74,
+      "description": "light rain",
+      "sunrise": 1791940499,
+      "sunset": 1791981903
     },
     {
       "city": "Depalpur",
-      "temperature": 26.22,
-      "humidity": 55,
+      "temperature": 24.22,
+      "humidity": 64,
       "description": "clear sky",
-      "sunrise": 1791852800,
-      "sunset": 1791894877
+      "sunrise": 1791939223,
+      "sunset": 1791981224
     },
     {
       "city": "Okara",
-      "temperature": 27.17,
-      "humidity": 36,
-      "description": "scattered clouds",
-      "sunrise": 1791853613,
-      "sunset": 1791895073
+      "temperature": 23.52,
+      "humidity": 52,
+      "description": "broken clouds",
+      "sunrise": 1791940053,
+      "sunset": 1791981404
     },
     {
       "city": "Basirpur",
-      "temperature": 27.35,
-      "humidity": 35,
-      "description": "few clouds",
-      "sunrise": 1791853511,
-      "sunset": 1791894991
+      "temperature": 23.68,
+      "humidity": 48,
+      "description": "broken clouds",
+      "sunrise": 1791939951,
+      "sunset": 1791981322
     }
   ]
 }
