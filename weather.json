@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-10-15 17:35:23 UTC",
+  "last_update": "2026-10-15 20:56:09 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 22.99,
-      "humidity": 78,
-      "description": "broken clouds",
-      "sunrise": 1792026312,
-      "sunset": 1792067487
+      "temperature": 20.99,
+      "humidity": 88,
+      "description": "clear sky",
+      "sunrise": 1792112754,
+      "sunset": 1792153818
     },
     {
       "city": "Islamabad",
-      "temperature": 19.91,
-      "humidity": 79,
+      "temperature": 18.24,
+      "humidity": 85,
       "description": "clear sky",
-      "sunrise": 1792026705,
-      "sunset": 1792067674
+      "sunrise": 1792113152,
+      "sunset": 1792154000
     },
     {
       "city": "Multan",
-      "temperature": 24.94,
-      "humidity": 73,
-      "description": "few clouds",
-      "sunrise": 1792026938,
-      "sunset": 1792068237
+      "temperature": 21.94,
+      "humidity": 83,
+      "description": "overcast clouds",
+      "sunrise": 1792113378,
+      "sunset": 1792154571
     },
     {
       "city": "Depalpur",
-      "temperature": 26.22,
-      "humidity": 56,
+      "temperature": 23.22,
+      "humidity": 63,
       "description": "clear sky",
-      "sunrise": 1792025648,
-      "sunset": 1792067572
+      "sunrise": 1792112072,
+      "sunset": 1792153920
     },
     {
       "city": "Okara",
-      "temperature": 23.14,
-      "humidity": 54,
-      "description": "scattered clouds",
-      "sunrise": 1792026493,
-      "sunset": 1792067736
+      "temperature": 21.84,
+      "humidity": 63,
+      "description": "broken clouds",
+      "sunrise": 1792112934,
+      "sunset": 1792154069
     },
     {
       "city": "Basirpur",
-      "temperature": 23.29,
-      "humidity": 59,
-      "description": "broken clouds",
-      "sunrise": 1792026391,
-      "sunset": 1792067655
+      "temperature": 22.31,
+      "humidity": 64,
+      "description": "scattered clouds",
+      "sunrise": 1792112831,
+      "sunset": 1792153988
     }
   ]
 }
