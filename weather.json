@@ -1,53 +1,53 @@
 {
-  "last_update": "2026-11-04 15:04:53 UTC",
+  "last_update": "2026-11-04 21:23:34 UTC",
   "cities": [
     {
       "city": "Lahore",
-      "temperature": 23.99,
-      "humidity": 60,
+      "temperature": 19.99,
+      "humidity": 83,
       "description": "smoke",
-      "sunrise": 1793755242,
-      "sunset": 1793794297
+      "sunrise": 1793841692,
+      "sunset": 1793880650
     },
     {
       "city": "Islamabad",
-      "temperature": 20.47,
-      "humidity": 61,
-      "description": "clear sky",
-      "sunrise": 1793755728,
-      "sunset": 1793794391
+      "temperature": 17.13,
+      "humidity": 75,
+      "description": "broken clouds",
+      "sunrise": 1793842184,
+      "sunset": 1793880740
     },
     {
       "city": "Multan",
-      "temperature": 24.94,
-      "humidity": 65,
+      "temperature": 22.94,
+      "humidity": 73,
       "description": "smoke",
-      "sunrise": 1793755812,
-      "sunset": 1793795104
+      "sunrise": 1793842260,
+      "sunset": 1793881459
     },
     {
       "city": "Depalpur",
-      "temperature": 26.22,
-      "humidity": 38,
-      "description": "broken clouds",
-      "sunrise": 1793754241,
-      "sunset": 1793794719
+      "temperature": 19.22,
+      "humidity": 49,
+      "description": "clear sky",
+      "sunrise": 1793840676,
+      "sunset": 1793881087
     },
     {
       "city": "Okara",
-      "temperature": 24.98,
-      "humidity": 27,
-      "description": "scattered clouds",
-      "sunrise": 1793755392,
-      "sunset": 1793794578
+      "temperature": 21.09,
+      "humidity": 32,
+      "description": "clear sky",
+      "sunrise": 1793841841,
+      "sunset": 1793880932
     },
     {
       "city": "Basirpur",
-      "temperature": 25.36,
-      "humidity": 27,
-      "description": "scattered clouds",
-      "sunrise": 1793755280,
-      "sunset": 1793794506
+      "temperature": 21.32,
+      "humidity": 31,
+      "description": "clear sky",
+      "sunrise": 1793841729,
+      "sunset": 1793880860
     }
   ]
 }
